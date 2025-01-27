@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Simple Stock Analysis
 
 A simple Streamlit app template for you to modify!
 
